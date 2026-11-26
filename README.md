@@ -5,7 +5,7 @@ Shopify and WooCommerce stores and helps them finish checkout.
 
 > This is a design and front-end concept, not a live product.
 
-**Live:** https://cartcloser.iamsadeq.dev · **Portfolio:** https://iamsadeq.dev
+**Live:** https://cartcloser-ai.vercel.app · **Portfolio:** https://iamsadeq.dev
 
 ## Sections
 Hero · comparison with ordinary chatbots · how it works · interactive demo preview · pricing · FAQ
